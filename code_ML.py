@@ -189,3 +189,4 @@ t3.config(font=("Elephant", 20))
 t3.grid(row=20, column=1 , padx=10)
 
 shivamGUI.mainloop()                             #program runs till you close the window
+
